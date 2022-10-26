@@ -85,7 +85,7 @@
     </plugins>
   </build>
   <distributionManagement>
-    <eepository>
+    <repository>
       <id> deploymentNexus</id>
       <name>nexus-release</name>
       <url>http://localhost:8081/repository/jar-release/</url>
